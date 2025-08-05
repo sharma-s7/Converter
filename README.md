@@ -12,6 +12,7 @@ No dependencies. No setup. Just open and convert.
 - Select a conversion type, input a value, and get results instantly.
 
 📐 Supported Conversions
+
 | Type | Formula | 
 | Temperature | °F = (°C × 9/5) + 32 | 
 | Weight | lb = kg × 2.20462 | 
@@ -27,11 +28,13 @@ unit-converter/
 
 
 ✨ Features
+
 - Responsive layout with simple CSS
 - On-the-fly conversion using JS event listeners
 - Beginner-friendly, no external libraries
 
 🚧 Example
+
 Input: 100°C → Output: 212°F  
 Input: 5km   → Output: 3.10686mi  
 Input: 70kg  → Output: 154.3234lb
