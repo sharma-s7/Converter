@@ -14,16 +14,23 @@ No dependencies. No setup. Just open and convert.
 📐 Supported Conversions
 
 | Type | Formula | 
+
 | Temperature | °F = (°C × 9/5) + 32 | 
+
 | Weight | lb = kg × 2.20462 | 
+
 | Distance | mi = km × 0.621371 | 
 
 
 🧱 Project Structure
 unit-converter/
+
 ├── index.html       # Core structure
+
 ├── style.css        # Styling
+
 ├── script.js        # Conversion logic
+
 └── README.md        # Documentation
 
 
